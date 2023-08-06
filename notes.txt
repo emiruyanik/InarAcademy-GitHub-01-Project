@@ -4,3 +4,7 @@ Write a project plan"
 - Gather data and resources
 - DeÞne project milestones"
 - Start initial implementation
+- Conduct testing and debugging"
+- Finalize project documentation"
+- Submit project for review"
+
